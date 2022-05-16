@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url('../images/1.jpg') no-repeat fixed;
+    background-size: cover;
+}
+.banner{
+    text-align: center;
+    margin-top: 20%;
+}
+.banner>p{
+    font-size: 35px;
+    color: crimson;
+    text-transform: uppercase;
+    font-weight:500;
+    text-shadow: 1px 2px #646464;
+    margin: 40px 0;
+}
+.title{
+    font-size: 48px;
+}
+.sub-title{
+    font-size: 18px;
+    width: 80%;
+    margin: auto;
+    color: #f2f2f2;
+}
+.copy{
+    padding: 5px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    color: #a1a1a1
+}
